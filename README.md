@@ -53,6 +53,6 @@ Here are some ideas to get you started:
   I'm passionate about writing clean, maintainable code and creating efficient software solutions. My approach combines technical excellence with a deep understanding of system design and performance optimization.
 
 **🌐 Let's Connect**
-https://www.linkedin.com/in/ramanapad-me]
+[https://www.linkedin.com/in/ramanapad-me]
 [rmabhardwaj002@gmail.com]
 
