@@ -23,14 +23,14 @@ Here are some ideas to get you started:
 **Languages**
   - JavaScript
   - Python
-  - Java
 
 **Backend Technologies**
   - Node.js
   - Express.js
   - Redis
   - MongoDB
-  - Web Scraping
+  - Docker
+  - Caching
   - ELK Stack (Elasticsearch, Logstash, Kibana)
 
 **Key Skills**
@@ -40,6 +40,7 @@ Here are some ideas to get you started:
   - Caching strategies
   - Database management
   - API development
+  - Web Scraping 
 
 **🛠️ Professional Highlights**
   - Developed scalable backend systems using Node.js and Express.js
@@ -52,7 +53,6 @@ Here are some ideas to get you started:
   I'm passionate about writing clean, maintainable code and creating efficient software solutions. My approach combines technical excellence with a deep understanding of system design and performance optimization.
 
 **🌐 Let's Connect**
-[LinkedIn Profile]
-[Personal Website/Portfolio]
-[Email]
+https://www.linkedin.com/in/ramanapad-me]
+[rmabhardwaj002@gmail.com]
 
