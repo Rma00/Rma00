@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**👋 Hello, Node.js Developer**
+**👋 Hello, Backend Developer**
 
 **💻 Professional Profile**
   With over 3 years of experience in software engineering, I specialize in building robust, scalable server-side applications using Node.js and related technologies. My expertise spans the entire backend development ecosystem, with a strong focus on creating efficient and performant web solutions.
