@@ -34,6 +34,8 @@ Here are some ideas to get you started:
   - ELK Stack (Elasticsearch, Logstash, Kibana)
 
 **Key Skills**
+  - Jenkins - (CICD)
+  - AWS - (Cloud)
   - Server-side application development
   - Distributed system design
   - Performance optimization
